@@ -8,3 +8,5 @@
 Набор данных
 
 Проект использует знаменитый набор данных «Титаника», содержащий подробную информацию о пассажирах «Титаника», такую ​​как имя, пол, возраст, класс каюты, стоимость проезда и то, выжили ли они.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zhaojin-2001/MMO/blob/main/Lab1_MMO_Titanic_Data_Story.ipynb)
